@@ -1,4 +1,8 @@
 # calculator
 Простой симулятор калькулятора
 
-[Иллюстрация к проекту] (https://github.com/pavlukha/calculator/blob/master/calcProjectScrShot.png)
+[Иллюстрация к проекту] 
+
+<p>
+  <img src="https://github.com/pavlukha/calculator/blob/master/calcProjectScrShot.png" />
+</p>
